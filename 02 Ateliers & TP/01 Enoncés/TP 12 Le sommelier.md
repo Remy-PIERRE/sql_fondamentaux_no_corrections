@@ -4,8 +4,8 @@
 <br>
 
 ## le pitch
-- Un caviste veut créer un site internet pour mettre en vente sur le web ses bouteille
-- Il souhaitent un moteur de recherche très pertinent avec des filtres adapatés
+- Un caviste veut créer un site internet pour mettre en vente sur le web ses bouteilles
+- Il souhaite un moteur de recherche très pertinent avec des filtres adapatés
 - Votre mission : consevoir la base de données
 - Vous êtes force de proposition.
 
